@@ -1,1 +1,2 @@
-тест 3
+def hello():
+    print(f"{len('text')}")
